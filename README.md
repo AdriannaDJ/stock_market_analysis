@@ -6,3 +6,4 @@
 * For Conditional Formatting, I recieved guidance from a Tutor (Paddington).
 * Finding the Min, Max, and Max Total Volume was based on code from Xpert Learning Assistant.
 * Finding the Ticker associated with Min and Max values was self coded.
+* Coding to have code work throughout all worksheets at once based on Class Lecture.
